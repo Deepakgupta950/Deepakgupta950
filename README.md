@@ -35,9 +35,7 @@
 
 ## 📂 Projects
 - 🔹 AI Mini Projects (Coming Soon)
-- 🔹 Data Analysis Projects
-- 🔹 Machine Learning Models
-
+-
 ---
 
 ## 📈 GitHub Stats
